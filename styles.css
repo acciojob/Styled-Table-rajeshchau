@@ -1,1 +1,8 @@
 /* your code */
+table{
+	color: black;
+	border: 1px solid lightcoral;
+}
+th{
+	background-color:blue;
+}
